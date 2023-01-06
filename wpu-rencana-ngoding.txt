@@ -1,0 +1,7 @@
+rencana ngoding
+-HTML CSS
+-javasript
+  *ES6
+  *Framework
+-reactjs
+-flutter
