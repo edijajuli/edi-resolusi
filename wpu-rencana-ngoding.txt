@@ -3,6 +3,10 @@ rencana ngoding
 -javasript
   *ES6
   *Framework
+  -vue
 -reactjs
 -strukrur data 
+-php frameworks
+  *laravel
 -flutter
+-python
