@@ -4,6 +4,7 @@ rencana ngoding
   *ES6
   *Framework
   -vue
+  -react
 -reactjs
 -strukrur data 
 -php frameworks
