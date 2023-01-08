@@ -4,4 +4,5 @@ rencana ngoding
   *ES6
   *Framework
 -reactjs
+-strukrur data 
 -flutter
